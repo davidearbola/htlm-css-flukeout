@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #0D1117;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.titolo {
+    color: whitesmoke;
+    font-size: 3em;
+    margin-bottom: 10px;
+}
+
+.immagine {
+    width: 60%;
+    text-align: center;
+}
+
+div {
+    height: 60%;
+    width: 60%;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+    left: -30%;
+    right: -30%;
+}
+
+p {
+    color: whitesmoke;
+    font-size: 10px;
+}
